@@ -67,7 +67,7 @@ contract MyContract is ChainlinkClient, Ownable {
     }
     
     function sellToken(uint _amount) public {
-        require(block.number - lastCheck < 10, "Downtime asked long time ago. Ask it again");
+        require(block.number - lastCheck < 100, "Downtime asked long time ago. Ask it again");
         uint ratio = downtime / maxDowntime; // 10 ** 18
         uint val = _amount*DDOS*ratio / 10 ** 18;
         DdosToken(tokenAddress).burn(msg.sender, _amount);

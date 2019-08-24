@@ -1,3 +1,8 @@
+DDOS Token
+===
+`address`: `0x7ba6f306be7107340f12d8e3a38fb41e5cb97575`
+
+
 Oracle
 ===
 Oracle contract address: `0xc7012b76c58d1e9494e58989a8c092e742ae69f8`
