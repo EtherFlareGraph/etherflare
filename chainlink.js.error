@@ -1,0 +1,83 @@
+Invariant Violation: Minified React error #31; visit https://reactjs.org/docs/error-decoder.html?invariant=31&args[]=object%20with%20keys%20%7BappKey%2C%20authorization%2C%20cacheControl%7D&args[]= for the full message or use the non-minified dev environment for full errors and additional helpful warnings. 
+    at http://localhost:6688/templates/vendors~main.7ca9fc0c.js:1:536251
+    at s (http://localhost:6688/templates/vendors~main.7ca9fc0c.js:1:536354)
+    at _o (http://localhost:6688/templates/vendors~main.7ca9fc0c.js:1:582970)
+    at http://localhost:6688/templates/vendors~main.7ca9fc0c.js:1:587712
+    at Ta (http://localhost:6688/templates/vendors~main.7ca9fc0c.js:1:594565)
+    at Aa (http://localhost:6688/templates/vendors~main.7ca9fc0c.js:1:602942)
+    at Vi (http://localhost:6688/templates/vendors~main.7ca9fc0c.js:1:626340)
+    at Ji (http://localhost:6688/templates/vendors~main.7ca9fc0c.js:1:626724)
+    at Ps (http://localhost:6688/templates/vendors~main.7ca9fc0c.js:1:633608)
+    at Os (http://localhost:6688/templates/vendors~main.7ca9fc0c.js:1:632988)
+r @ backend.js:6
+hi @ react-dom.production.min.js:4410
+Li.a.componentDidCatch.n.callback @ react-dom.production.min.js:4799
+ii @ react-dom.production.min.js:4273
+ai @ react-dom.production.min.js:4261
+Gi @ react-dom.production.min.js:4985
+qi @ react-dom.production.min.js:5125
+(anonymous) @ react-dom.production.min.js:5977
+t.unstable_runWithPriority @ scheduler.production.min.js:276
+Es @ react-dom.production.min.js:5976
+Ps @ react-dom.production.min.js:5960
+Os @ react-dom.production.min.js:5927
+Ts @ react-dom.production.min.js:5862
+es @ react-dom.production.min.js:5789
+enqueueSetState @ react-dom.production.min.js:2791
+w.setState @ react.production.min.js:74
+(anonymous) @ Provider.js:53
+y @ redux.js:214
+(anonymous) @ index.js:11
+dispatch @ redux.js:614
+(anonymous) @ actions.ts:284
+Promise.then (async)
+(anonymous) @ actions.ts:282
+(anonymous) @ index.js:8
+(anonymous) @ redux.js:464
+(anonymous) @ Overview.js:44
+didMount @ index.es.js:328
+(anonymous) @ index.es.js:154
+value @ index.es.js:152
+Gi @ react-dom.production.min.js:4980
+qi @ react-dom.production.min.js:5125
+(anonymous) @ react-dom.production.min.js:5977
+t.unstable_runWithPriority @ scheduler.production.min.js:276
+Es @ react-dom.production.min.js:5976
+Ps @ react-dom.production.min.js:5960
+Os @ react-dom.production.min.js:5927
+Ts @ react-dom.production.min.js:5862
+es @ react-dom.production.min.js:5789
+enqueueSetState @ react-dom.production.min.js:2791
+w.setState @ react.production.min.js:74
+value @ index.js:412
+o.update @ index.js:225
+(anonymous) @ index.js:365
+Promise.then (async)
+value @ index.js:352
+value @ index.js:271
+po @ react-dom.production.min.js:2855
+ja @ react-dom.production.min.js:3761
+Aa @ react-dom.production.min.js:3962
+Vi @ react-dom.production.min.js:5516
+Ji @ react-dom.production.min.js:5538
+Ps @ react-dom.production.min.js:5960
+Os @ react-dom.production.min.js:5927
+Ts @ react-dom.production.min.js:5862
+es @ react-dom.production.min.js:5789
+Ns @ react-dom.production.min.js:6079
+Is @ react-dom.production.min.js:6087
+zs.render @ react-dom.production.min.js:6278
+(anonymous) @ react-dom.production.min.js:6362
+As @ react-dom.production.min.js:6009
+Bs @ react-dom.production.min.js:6361
+hydrate @ react-dom.production.min.js:6388
+809 @ index.js:25
+i @ bootstrap:83
+(anonymous) @ bootstrapApp.js:44
+(anonymous) @ bootstrapApp.js:80
+i @ bootstrap:83
+464 @ BaseLink.tsx:13
+i @ bootstrap:83
+t @ bootstrap:45
+(anonymous) @ bootstrap:217
+(anonymous) @ bootstrap:217
